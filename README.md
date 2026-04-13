@@ -1,7 +1,7 @@
 ## Hi, I'm Vibhav 
 
 # 💫 About Me:
-- 🎓 CS student at Virginia Tech, graduating May 2027<br>- 🔧 Passionate about AI, data pipelines, and building user-facing products that solve real problems
+- 🎓 CS student at Virginia Tech, graduating December 2027<br>- 🔧 Passionate about AI, data pipelines, and building user-facing products that solve real problems
 
 
 ## 🌐 Socials:
